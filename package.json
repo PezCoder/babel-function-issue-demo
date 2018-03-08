@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "uglify": "uglify test.js"
+      "gulp": "gulp bhalu"
   },
   "author": "Rahul Gupta <rahul11061995@gmail.com>",
   "license": "MIT",

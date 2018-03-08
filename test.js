@@ -10,3 +10,5 @@ function someOtherFunc() {
     insideFunc();
   }
 }
+
+someOtherFunc();

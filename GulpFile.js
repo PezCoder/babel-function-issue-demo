@@ -8,6 +8,6 @@ gulp.task('bhalu', function() {
     .transform("babelify", {presets: ["es2015"]})
     .bundle()
     .pipe(source('./test.js'))
-    .pipe(gulp.dest('dest.js'));
+    .pipe(gulp.dest('dist'));
 
 });
