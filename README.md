@@ -1,3 +1,6 @@
+This is made for the issue, which is great read btw:
+https://github.com/babel/babelify/issues/259
+
 #### How to reproduce the issue
 1. First look at code in `./test.js` file
 2. Run `npm run gulp`
